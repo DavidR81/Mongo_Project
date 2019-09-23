@@ -26,6 +26,12 @@ Note that **it's impossible to cover all requirements**, so you have to prioriti
 - Nobody in the company likes to have companies with more than 10 years in a radius of 2 KM.
 - The CEO is Vegan
 
+
+# Coordenadas de la oficina
+
+        la oficina estará ubicada en San Francisco, con coordenadas (37.787092, -122.399972), para llegar a esto hemos realizado lo siguiente:
+
+
 # SRC
 
 MAIN_Project:
