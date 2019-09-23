@@ -71,6 +71,8 @@ API_Airport:
 
         1 - Aqui podremos encontrar los 3 mapas, en formato HTML, con las ubicaciones de los Starbucks, McDonals y Aeropuerto
         2 - Encontraremos tambien todos los archivos json con los que hemos ido trabajando en las distintas partes del proyecto
+        3 - Para la visualizacion de las ultimas oficinas filtradas, ya dentro de San Francisco, he usado Tableau
+            direccion web tableau: https://public.tableau.com/profile/david.recuero#!/vizhome/ProyectoMongo/Hoja2
 
 
 
